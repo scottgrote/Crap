@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Dev Ops and Dynaimcs I fucking hate everything and i hate dyanimcs 
+          Here I have piped some change to the azure web app: 
         </a>
       </header>
     </div>

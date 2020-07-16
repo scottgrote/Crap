@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Dev Ops and Dynaimcs I fucking hate everything 
+          Learn React and Dev Ops and Dynaimcs I fucking hate everything and i hate dyanimcs 
         </a>
       </header>
     </div>
